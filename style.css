@@ -31,3 +31,7 @@
 .text2 {
     width: 400px;
 }
+
+body {
+    background-color: bisque;
+}
