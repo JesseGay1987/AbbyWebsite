@@ -1,5 +1,7 @@
 .welcomemsg{
     text-align: center;
+    color: violet;
+    margin-bottom: 150px;
 }
 
 .logo{
@@ -14,24 +16,27 @@
     margin-right: 5px;
 }
 
-.bio2{
-    float: left;
-}
-
 .center {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 150px;
 }
 
 .text {
     width: 800px;          
 }
 
-.text2 {
-    width: 400px;
-}
-
 body {
     background-color: bisque;
+}
+
+.example{
+    width: 250px;
+    padding: 10px;
+}
+
+.photo {
+    text-align: center;
+    color: violet;
 }
